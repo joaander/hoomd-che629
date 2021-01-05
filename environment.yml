@@ -1,0 +1,12 @@
+name: hoomd-soft-matter-2021
+channels:
+  - conda-forge
+  - conda-forge/label/hoomd_dev
+dependencies:
+  - python==3.9
+  - hoomd==3.0.0dev2
+  - freud==2.*.*
+  - matplotlib
+  - fresnel==0.12.*
+  - gsd==2.*.*
+  - jupyterlab
