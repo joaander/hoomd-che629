@@ -10,3 +10,4 @@ dependencies:
   - fresnel==0.12.*
   - gsd==2.*.*
   - jupyterlab
+  - jupyter-offlinenotebook
