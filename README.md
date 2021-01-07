@@ -7,7 +7,7 @@ There are two ways you can run this code.
 ## In the cloud
 
 You can run this code in the cloud and access it with a web browser from any platform.
-Click the link below and wait a few moments for [mybinder](https://mybinder.org/) to start a [Jupyterlab](http://jupyterlab.io/) instance.
+Click the link below and wait a few minutes for binder to start a Jupyterlab instance.
 Follow the links in Jupyter to the tutorial sections and select the menu option _Run->Run All_ to execute the code.
 You can modify the code and run again, **but your changes will not be saved**.
 
