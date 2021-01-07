@@ -11,7 +11,7 @@ Click the link below and wait a few moments for [mybinder](https://mybinder.org/
 Follow the links in Jupyter to the tutorial sections and select the menu option _Run->Run All_ to execute the code.
 You can modify the code and run again, **but your changes will not be saved**.
 
-[Launch on mybinder](https://mybinder.org/v2/gh/joaander/hoomd-soft-matter-2021/HEAD?urlpath=lab%2F00-index.ipynb)
+[Launch on mybinder](https://mybinder.org/v2/gh/joaander/hoomd-soft-matter-2021/HEAD?urlpath=lab%2Ftree%2F00-index.ipynb)
 
 ## On your computer (macOS / Linux)
 
