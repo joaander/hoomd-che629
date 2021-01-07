@@ -6,7 +6,7 @@ There are two ways you can run this code.
 
 ## In the cloud
 
-You can run this code in the cloud and access it with a web browser from any platform. 
+You can run this code in the cloud and access it with a web browser from any platform.
 Click the link below and wait a few moments for [mybinder](https://mybinder.org/) to start a [Jupyterlab](http://jupyterlab.io/) instance.
 Follow the links in Jupyter to the tutorial sections and select the menu option _Run->Run All_ to execute the code.
 You can modify the code and run again, **but your changes will not be saved**.
@@ -22,3 +22,7 @@ You will need some familiarity with the command prompt to do this.
 * Create a virtual environment with the needed software: `conda env create -f hoomd-soft-matter-2021/environment.yml`
 * Activate the environment: `conda activate hoomd-soft-matter-2021`
 * Add Jupyterlab: `conda install jupyterlab -c conda-forge -y`
+* Launch Jupyterlab: `jupyter lab hoomd-soft-matter-2021/00-index.ipynb` and open `00-index.ipynb`
+
+Follow the links in Jupyter to the tutorial sections and select the menu option _Run->Run All_ to execute the code.
+You can modify the code and run again and your changes will be saved on your computer.
