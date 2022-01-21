@@ -3,14 +3,14 @@ name: hoomd-che629
 version: 2022.0
 
 channels:
-  - conda-forge
   - conda-forge/label/hoomd_dev
+  - conda-forge
 specs:
   - python ==3.7
   - pip
   - conda
   - mamba
-  - hoomd
+  - hoomd ==3.0.0dev13
   - freud
   - matplotlib
   - fresnel
