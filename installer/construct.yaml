@@ -1,0 +1,21 @@
+
+name: hoomd-che629
+version: 2022.0
+
+channels:
+  - conda-forge
+  - conda-forge/label/hoomd_dev
+specs:
+  - python ==3.7
+  - pip
+  - conda
+  - mamba
+  - hoomd
+  - freud
+  - matplotlib
+  - fresnel
+  - gsd
+
+# do not edit below this line
+# ---------------------------
+installer_type: sh

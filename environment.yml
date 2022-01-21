@@ -1,10 +1,10 @@
-name: hoomd-soft-matter-2021
+name: hoomd-che629
 channels:
   - conda-forge
   - conda-forge/label/hoomd_dev
 dependencies:
-  - hoomd==3.0.0dev2
-  - freud==2.*.*
+  - hoomd
+  - freud
   - matplotlib
-  - fresnel==0.12.*
-  - gsd==2.*.*
+  - fresnel
+  - gsd
